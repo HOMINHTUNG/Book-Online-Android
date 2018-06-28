@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navCaNhan"
+            android:icon="@drawable/ic_canhan"
+            android:title="Cá nhân" />
+    </group>
+
+    <item
+                android:id="@+id/navHoatDong"
+                android:icon="@drawable/ic_hoatdong"
+                android:title="Hoạt động" />
+    <item
+                android:id="@+id/navDangXuat"
+                android:icon="@drawable/ic_dangxuat"
+                android:title="Đăng xuất" />
+            <item
+                android:id="@+id/navThoat"
+                android:icon="@drawable/ic_thoat"
+                android:title="Thoát" />
+
+
+</menu>

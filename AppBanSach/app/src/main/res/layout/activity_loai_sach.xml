@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.example.hominhtung_pc.appbansach.Activity.LoaiSachActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <LinearLayout
+            android:id="@+id/lnDetailCaNhan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/coler_menu_tool"
+            android:orientation="horizontal"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:weightSum="3">
+
+            <ImageButton
+                android:id="@+id/btnQuayLai"
+                style="@style/Base.Widget.AppCompat.Button.Borderless"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:elevation="0dp"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/ic_quaylai_black" />
+
+            <TextView
+                android:id="@+id/txt_TenTheLoai_tl"
+                android:layout_width="263dp"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@+id/lnDetailCaNhan"
+                android:layout_toRightOf="@+id/lnDetailCaNhan"
+                android:layout_weight="3.18"
+                android:gravity="center"
+                android:text="Thông tin cá nhân"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:textSize="20dp" />
+            <ImageButton
+                android:id="@+id/btnQuayLai1"
+                style="@style/Base.Widget.AppCompat.Button.Borderless"
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:elevation="0dp"
+                android:scaleType="centerCrop"
+                />
+
+        </LinearLayout>
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rcv_Sach_tl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="8dp"
+            android:layout_below="@+id/lnDetailCaNhan"
+            android:layout_centerHorizontal="true"></android.support.v7.widget.RecyclerView>
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

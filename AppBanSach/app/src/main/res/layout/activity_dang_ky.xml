@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <LinearLayout
+        android:id="@+id/lnDetailCaNhan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/coler_menu_tool"
+        android:orientation="horizontal"
+        android:paddingTop="5dp"
+        android:weightSum="3">
+
+        <ImageButton
+            android:id="@+id/btnQuayLai"
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:elevation="0dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/ic_quaylai_black" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="263dp"
+            android:layout_height="match_parent"
+            android:layout_toEndOf="@+id/lnDetailCaNhan"
+            android:layout_toRightOf="@+id/lnDetailCaNhan"
+            android:layout_weight="3.18"
+            android:gravity="center"
+            android:text="Đăng ký"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/btnQuayLai1"
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:elevation="0dp"
+            android:scaleType="centerCrop" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lnDetailCaNhan"
+        android:orientation="vertical"
+        android:paddingBottom="16dp"
+        android:paddingEnd="16dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingStart="16dp">
+
+
+        <TextView
+            android:id="@+id/signin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="48dp"
+            android:text="Tạo tài khoản mới"
+            android:textColor="#00051f"
+            android:textSize="17dp"
+
+            />
+
+
+        <EditText
+            android:id="@+id/txt_TenDocGia_dk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="42dp"
+            android:background="#00000000"
+            android:hint="HỌ VÀ TÊN"
+            android:inputType="text|textPersonName"
+            android:textColorHint="#a9b0c3"
+
+            android:textSize="13dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginTop="10dp"
+            android:background="#a9b0c3"
+
+            />
+
+
+        <EditText
+            android:id="@+id/txt_Email_dk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:background="#00000000"
+            android:hint="EMAIL"
+            android:inputType="text|textEmailAddress"
+            android:textColorHint="#a9b0c3"
+
+            android:textSize="13dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginTop="10dp"
+            android:background="#a9b0c3" />
+
+        <EditText
+            android:id="@+id/txt_Sdt_dk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:background="#00000000"
+            android:hint="SỐ ĐIỆN THOẠI"
+            android:inputType="phone"
+            android:textColorHint="#a9b0c3"
+
+            android:textSize="13dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginTop="10dp"
+            android:background="#a9b0c3" />
+
+        <EditText
+            android:id="@+id/txt_MatKhau_dk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:background="#00000000"
+            android:hint="MẬT KHẨU"
+            android:inputType="textPassword"
+            android:textColorHint="#a9b0c3"
+
+            android:textSize="13dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginTop="10dp"
+            android:background="#a9b0c3" />
+
+
+        <TextView
+            android:id="@+id/btn_DangKy_dk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="42dp"
+            android:background="@drawable/round"
+            android:gravity="center"
+            android:padding="14dp"
+            android:text="TẠO"
+            android:textColor="#CBD1DC"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/ter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="16dp"
+        android:gravity="center"
+        android:text="Chấp nhận các điều khoản được cung cấp"
+        android:textColor="#a9b0c3"
+        android:textSize="12dp" />
+
+
+
+</RelativeLayout>
