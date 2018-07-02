@@ -1,0 +1,188 @@
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\ApplicationInsights.config
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\roslyn\csc.exe
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\roslyn\System.Collections.Immutable.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\roslyn\System.Reflection.Metadata.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\roslyn\vbc.exe
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\roslyn\VBCSCompiler.exe
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\roslyn\VBCSCompiler.exe.config
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\APIthayvu2.dll.config
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\APIthayvu2.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\APIthayvu2.pdb
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Antlr3.Runtime.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\EntityFramework.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\EntityFramework.SqlServer.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.AI.DependencyCollector.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.AI.Web.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.AI.WindowsServer.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.ApplicationInsights.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.Web.Infrastructure.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Newtonsoft.Json.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Net.Http.Formatting.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.Helpers.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.Http.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.Http.WebHost.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.Mvc.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.Optimization.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.Razor.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.Deployment.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.Razor.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\WebGrease.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\EntityFramework.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\EntityFramework.SqlServer.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.AI.DependencyCollector.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.AI.Web.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.AI.WindowsServer.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.ApplicationInsights.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Newtonsoft.Json.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Net.Http.Formatting.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.Helpers.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.Http.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.Http.WebHost.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.Mvc.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.Optimization.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.Razor.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.Deployment.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.Razor.xml
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\bin\Antlr3.Runtime.pdb
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\obj\Debug\APIthayvu2.dll
+D:\ROG\ProjectMVC\APIthayvu2\APIthayvu2\obj\Debug\APIthayvu2.pdb
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\ApplicationInsights.config
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\csc.exe
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\vbc.exe
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\VBCSCompiler.exe
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\APIthayvu2.dll.config
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\APIthayvu2.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\APIthayvu2.pdb
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Antlr3.Runtime.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\EntityFramework.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\EntityFramework.SqlServer.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.DependencyCollector.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.Web.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.WindowsServer.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.ApplicationInsights.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.Web.Infrastructure.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Newtonsoft.Json.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Net.Http.Formatting.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Helpers.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Http.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Http.WebHost.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Mvc.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Optimization.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Razor.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.Deployment.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.Razor.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\WebGrease.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\EntityFramework.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\EntityFramework.SqlServer.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.DependencyCollector.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.Web.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.WindowsServer.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.ApplicationInsights.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Newtonsoft.Json.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Net.Http.Formatting.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Helpers.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Http.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Http.WebHost.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Mvc.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Optimization.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Razor.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.Deployment.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.Razor.xml
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\bin\Antlr3.Runtime.pdb
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\obj\Debug\APIthayvu2.csprojResolveAssemblyReference.cache
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\obj\Debug\APIthayvu2.dll
+E:\Project\Đồ án 2\TESTAPI\APIthayvu2\APIthayvu2\obj\Debug\APIthayvu2.pdb
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\ApplicationInsights.config
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\csc.exe
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\vbc.exe
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\VBCSCompiler.exe
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\APIthayvu2.dll.config
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\APIthayvu2.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\APIthayvu2.pdb
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Antlr3.Runtime.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\EntityFramework.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\EntityFramework.SqlServer.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.DependencyCollector.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.Web.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.WindowsServer.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.ApplicationInsights.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.Web.Infrastructure.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Newtonsoft.Json.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Net.Http.Formatting.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Helpers.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Http.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Http.WebHost.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Mvc.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Optimization.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Razor.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.Deployment.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.Razor.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\WebGrease.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\EntityFramework.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\EntityFramework.SqlServer.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.DependencyCollector.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.Web.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.AI.WindowsServer.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.ApplicationInsights.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Newtonsoft.Json.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Net.Http.Formatting.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Helpers.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Http.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Http.WebHost.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Mvc.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Optimization.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.Razor.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.Deployment.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\System.Web.WebPages.Razor.xml
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\bin\Antlr3.Runtime.pdb
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\obj\Debug\APIthayvu2.csprojResolveAssemblyReference.cache
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\obj\Debug\APIthayvu2.dll
+E:\Project\TESTAPI\APIthayvu2\APIthayvu2\obj\Debug\APIthayvu2.pdb
